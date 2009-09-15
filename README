@@ -11,7 +11,7 @@ plasma-scriptengine-python, python-kde4, python-qt4
 
 Use following command to install the .plasmoid file which is in fact a zip archive
 
-$ plasmapkg -i plasma_pyweather.palsmoid
+$ plasmapkg -i plasma_pyweather
 
 Unforutately, the gui for adding a new widget can only add binary widgets at the time of writing this.
 
